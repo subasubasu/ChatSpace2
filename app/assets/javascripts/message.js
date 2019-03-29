@@ -83,7 +83,7 @@ $(function(){
         })
       })
       .fail(function(data){
-        alert('error');
+        // alert('error');
       })
     }
   });
